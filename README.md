@@ -14,7 +14,7 @@ Understanding the Problem -  Fake_news_Classification
 
 🔹   This case study involves analyzing thousands of news articles to determine their authenticity.
 
-![Fake News Detection](fake_news_classification_flow chart.webp)
+![Fake News Detection](https://github.com/Bisampi/Fake_news_classification/blob/main/Screenshot%202025-02-09%20215327.png)
 
 
 
